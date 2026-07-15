@@ -1,15 +1,15 @@
 
 <img width = 100% height = 333px src = "https://i.pinimg.com/originals/e3/5b/8c/e35b8c7a396dcb6da55fbcb998423073.gif">
 <h1 align="center">Hi 👋, I'm Talha.</h1>
-<h3 align="center">An upcoming Data Scientist from Pakistan.</h3>
+<h3 align="center"></h3>
 <img align = "right" alt = "coding" width = 400 src = "https://cdn.dribbble.com/users/474881/screenshots/1907765/media/15e3a82f69e6c94a49ab875c32ace786.gif">
 
 
-- 🔭 I’m currently working on **SGS**
+- 🔭 I’m currently working on **Baseerat :  Intelligent Hub for Customer and Social Base**
 
-- 🌱 I’m currently learning **Kivy Framework, Data Sciences**
+- 🌱 I’m currently learning **How MCP behaves on server level**
 
-- 💬 Ask me about **Python, Data Sciences, Visualization, Analysis**
+- 💬 Ask me about **Python, LLMs, AI-Native Applications, Next.js**
 
 - 📫 How to reach me **talhanaveed13@gmail.com**
 
